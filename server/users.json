@@ -1,0 +1,18 @@
+[
+    {
+        "id":"f0962070-c94c-4813-abad-85d17d701057",
+        "name":"First Phone User",
+        "count":3,
+        "latitude": "24.879999",
+        "longitude": "74.629997",
+        "activationDate": "21-03-2019"
+    },
+    {
+        "id":"f252970d-1c42-452c-9b9f-46f11c7bcc2e",
+        "name":"Second Phone User",
+        "count":1,
+        "latitude": "16.994444",
+        "longitude": "73.300003",
+        "activationDate": "01-03-2019"
+    }
+]
